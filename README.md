@@ -22,7 +22,6 @@
 <p align="center">
   <a href="https://dribbble.com/aleczander1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aleczander1" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/29162524/aleczander" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="aleczander1" height="40" width="40" /></a>
-  <a href="https://twitter.com/aleczander1111" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="aleczander1111" height="30" width="30" /></a>
 </p>
 
 
